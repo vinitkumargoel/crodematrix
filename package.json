@@ -1,0 +1,22 @@
+{
+  "name": "code-matrix",
+  "version": "1.0.0",
+  "description": "POC for LBG Account",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinitkumargoel/crodematrix.git"
+  },
+  "author": "vinit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinitkumargoel/crodematrix/issues"
+  },
+  "homepage": "https://github.com/vinitkumargoel/crodematrix#readme",
+  "dependencies": {
+    "react": "^15.3.0"
+  }
+}
